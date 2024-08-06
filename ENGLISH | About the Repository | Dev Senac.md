@@ -5,7 +5,7 @@ Repository dedicated to my Technical Course in Systems Development at Senac Hub 
 
 ![Screenshot](https://via.placeholder.com/600x300)
 
-## Table of Contents
+### Table of Contents
 - [Curriculum](#curriculum)
 - [Repository Content](#repository-content)
 
