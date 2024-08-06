@@ -1,4 +1,4 @@
-# <h1 style="color: pink;">Technical Course in Systems Development</h1>
+<h1 style="color: pink;">Technical Course in Systems Development</h1>
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
