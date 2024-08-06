@@ -1,8 +1,5 @@
 # 🌸 Technical Course in Systems Development | Curso Técnico em Desenvolvimento de Sistemas🌸
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
 [🇧🇷 *Leia em Português/Read in Portuguese*](#curso-técnico-em-desenvolvimento-de-sistemas)
 
 Repository dedicated to my Technical Course in Systems Development at Senac Hub Academy. Here you will find classes, activities, tests, assignments, projects, etc. Everything related to the course content.
