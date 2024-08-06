@@ -1,4 +1,4 @@
-Curso Técnico em Desenvolvimento de Sistemas
+Curso Técnico em Desenvolvimento de Sistemas - Dev Senac
 
 Repositório dedicado ao meu curso Técnico em Desenvolvimento de Sistemas do Senac Hub Academy. Aqui tem aulas, atividadaes, testes, trabalhos, projetos, etc. Tudo em torno do conteúdo do curso.
 
