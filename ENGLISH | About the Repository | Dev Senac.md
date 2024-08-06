@@ -1,9 +1,17 @@
+# <h1 style="color: pink;">Technical Course in Systems Development</h1>
+
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 [Read in Portuguese](#curso-técnico-em-desenvolvimento-de-sistemas)
 
 Repository dedicated to my Technical Course in Systems Development at Senac Hub Academy. Here you will find classes, activities, tests, assignments, projects, etc. Everything related to the course content.
+
+![Screenshot](https://via.placeholder.com/600x300)
+
+## Table of Contents
+- [Curriculum](#curriculum)
+- [Repository Content](#repository-content)
 
 ## Curriculum
 
